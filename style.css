@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&display=swap");
+
+body {
+  background-color: #f8f7ff;
+  font-family: "Cairo";
+}
+
+.nav-link {
+  font-size: 25px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.picture_container {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  padding-top: 15px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.apps {
+  text-decoration: none;
+  color: #001219;
+}
+
+.apps:visited {
+  text-decoration: none;
+  color: #001219;
+}
+
+.image {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.image:hover {
+  transform: scale(1.1);
+}
+
+.header {
+  padding-top: 75px;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 25px;
+}
+
+.subcontainer {
+  font-size: 22px;
+  text-align: center;
+}
+
+li {
+  font-size: 25px;
+}
+
+.lists {
+  margin: 0%;
+  font-size: 22px;
+  padding-left: 540px;
+}
+
+.details {
+  padding: 20px;
+  text-align: justify;
+}
+
+.heading {
+  text-align: center;
+  padding-bottom: 20px;
+  margin: 0%;
+}
+
+.para {
+  font-size: 22px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0%;
+}
+
+.ss {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.progressBar {
+  padding-left: 30px;
+  padding-right: 30px;
+}
